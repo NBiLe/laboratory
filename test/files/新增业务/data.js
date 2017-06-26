@@ -1,0 +1,73 @@
+﻿$axure.loadCurrentPage({
+  "url":"新增业务.html",
+  "generationDate":new Date(1482495099556.39),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"31f6c25aa59b4a99946267f86a3e63a0",
+    "type":"Axure:Page",
+    "name":"新增业务",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"8aedf697309a4bf38ae9619f33982cb4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontSize":"18px",
+            "location":{
+              "x":7,
+              "y":3},
+            "size":{
+              "width":185,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5028a9e84f574d13b6e8a5b2e57008ef",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"18px",
+                "location":{
+                  "x":7,
+                  "y":3},
+                "size":{
+                  "width":185,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "8aedf697309a4bf38ae9619f33982cb4":{
+      "scriptId":"u0"},
+    "5028a9e84f574d13b6e8a5b2e57008ef":{
+      "scriptId":"u1"}}});
